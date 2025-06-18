@@ -21,7 +21,7 @@ This project showcases the power of Microsoft Excel as a business intelligence t
 
 ## 📷 Dashboard Preview
 
-+ ![Coffee Shop Sales Dashboard](Screenshot&2025-06-18%220337.png)
++ ![Coffee Shop Sales Dashboard](Screenshot%202025-06-18%20220337.png)
 
 > The Excel dashboard includes KPI blocks, slicers, pivot charts, and dynamic visuals—offering a complete snapshot of the business.
 
