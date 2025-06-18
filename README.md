@@ -19,6 +19,14 @@ This project showcases the power of Microsoft Excel as a business intelligence t
 
 ---
 
+## 📷 Dashboard Preview
+
++ ![Coffee Shop Sales Dashboard](Screenshot&2025-06-18%220337.png)
+
+> The Excel dashboard includes KPI blocks, slicers, pivot charts, and dynamic visuals—offering a complete snapshot of the business.
+
+---
+
 ## 📊 Key Features
 
 - 💰 **Total Sales**: $ 6,98,812.33
@@ -31,14 +39,6 @@ This project showcases the power of Microsoft Excel as a business intelligence t
 - 🛍️ **Category and Size Distribution**  
 - 📍 **Store-wise Sales & Footfall Comparison**  
 - 🎛️ **Interactive Filters**: Slice data by Month and Day  
-
----
-
-## 📷 Dashboard Preview
-
-![Coffee Shop Sales Dashboard](Screenshot 2025-06-18 220337.png)
-
-> The Excel dashboard includes KPI blocks, slicers, pivot charts, and dynamic visuals—offering a complete snapshot of the business.
 
 ---
 
